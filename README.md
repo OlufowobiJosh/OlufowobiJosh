@@ -54,7 +54,7 @@ Using Python and demographic analysis to explore population trends and support l
 ### 11. Road Traffic Accident & Incident Analysis
 Exploring accident datasets using statistical analysis and data visualisation to identify trends and patterns.
 
-### 12. Smart Factory Energy Consumption Analysis (BERICAP)
+### 12. MSc Final-Year Project at the University of Hull.
 Applying time-series forecasting, statistical analysis and unsupervised machine learning techniques to investigate industrial energy consumption patterns.
 
 ### 13. Ethical Applications of Artificial Intelligence
