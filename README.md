@@ -2,7 +2,7 @@
 
 ### Data Analytics | Data Science | Business Intelligence | Machine Learning
 
-I'm a Data Analytics professional with an MSc in Artificial Intelligence and Data Science (Merit) from the University of Hull, UK.
+I'm a Data Analytics professional with an MSc in Artificial Intelligence and Data Science from the University of Hull, UK.
 
 I specialise in transforming complex datasets into actionable insights, developing interactive dashboards, automating reporting processes, and applying statistical and machine learning techniques to solve real-world business problems.
 
